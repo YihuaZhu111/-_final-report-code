@@ -1,7 +1,6 @@
 # -_final-report-code
 
-<jupyter notebook>
+jupyter notebook
 
-  
  
 dependencies:   sklearn numpy pandas matplotlib
